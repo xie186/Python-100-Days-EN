@@ -1,12 +1,13 @@
-## Python - 100天从新手到大师
+## Python - 100Day: From Novice to Master
 
-> 作者：骆昊
+> Author: Hao Luo(骆昊)
+> Translators: Shaojun Xie (解少俊)
 
-### Python应用领域和就业形势分析
+### Analysis of Applications and Job Makrket for Python
 
-简单的说，Python是一个“优雅”、“明确”、“简单”的编程语言。
+Simply put, Python is an elegant, explicit and simiple programming language.  
 
- - 学习曲线低，非专业人士也能上手
+ - Shallow learning curve, easy for non-professionals to get started
  - 开源系统，拥有强大的生态圈
  - 解释型语言，完美的平台可移植性
  - 支持面向对象和函数式编程
