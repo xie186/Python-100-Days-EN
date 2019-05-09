@@ -1,0 +1,6 @@
+book_filename: "my-book.Rmd"
+before_chapter_script: ["script1.R", "script2.R"]
+after_chapter_script: "script3.R"
+edit: https://github.com/rstudio/bookdown-demo/edit/master/%s
+output_dir: "book-output"
+clean: ["my-book.bbl", "R-packages.bib"]
