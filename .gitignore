@@ -3,4 +3,8 @@ venv
 *.pyc
 __pycache__
 
+<<<<<<< HEAD
 .Rproj.user
+=======
+## Ubuntu home: /home/x*/Python-100-Days-EN
+>>>>>>> 0f5addc4d0807109f4daadfae1b672fd6e1a5eba
