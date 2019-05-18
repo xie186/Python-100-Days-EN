@@ -1,9 +1,15 @@
 ---
-title: "A Book"
-author: "Frida Gomam"
+title: "Python 100 Days: From Novice to Master"
+#author: "Hao Luo, Shaojun Xie"
 site: bookdown::bookdown_site
 documentclass: book
 output:
   bookdown::gitbook: default
   #bookdown::pdf_book: default
 ---
+
+
+# Preface {-}
+
+In this book, we will introduce an interesting
+method.
