@@ -1,4 +1,4 @@
 [
 ["index.html", "Python 100 Days: From Novice to Master Preface", " Python 100 Days: From Novice to Master Preface In this book, we will introduce an interesting method. "],
-["day-01-python-introduction.html", "1 Day 01: Python Introduction 1.1 The history of Python", " 1 Day 01: Python Introduction 1.1 The history of Python During Chrismas in 1989, Guido von Rossum started to work on Python as a Chrismas project. In Feberury 1991, 1991年2月：第一个Python编译器（同时也是解释器）诞生，它是用C语言实现的（后面又出现了Java和C#实现的版本Jython和IronPython，以及PyPy、Brython、Pyston等其他实现），可以调用C语言的库函数。在最早的版本中，Python已经提供了对“类”，“函数”，“异常处理”等构造块的支持，同时提供了“列表”和“字典”等核心数据类型，同时支持以模块为基础的拓展系统。 "]
+["day-01-python-introduction.html", "1 Day 01: Python Introduction 1.1 The history of Python", " 1 Day 01: Python Introduction 1.1 The history of Python During Chrismas in 1989, Guido von Rossum started to work on Python as a Chrismas project. In Feberury 1991, "]
 ]
