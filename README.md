@@ -1,11 +1,18 @@
-<<<<<<< HEAD
 This is a minimal bookdown example. Although you see a few files here, only `index.Rmd` is required. All other files are optional, but `bookdown-minimal.Rproj` can make it much easier to build the book.
 
 The key is the `site` setting in `index.Rmd`. If you want to build the book in RStudio, just click the `Build Book` button in the `Build` pane, otherwise call the function in R:
 
+
 ```r
 bookdown::render_book('index.Rmd', 'all')
 ```
+
+> 作者：骆昊
+>
+> 说明：最近有很多想学习Python的小伙伴申请单独加我微信，因为我自己平时也很忙，没办法一一解答大家的问题，我创建了一个叫**Python100天学习交流2群**，(之前的**Python100天学习交流群**已满员，新的交流群群号**213132758**，二维码在下方。群里面有我优秀的同事和朋友，我们在有时间的时候会主动为大家解答各种问题，从Python语言入门到Web应用开发，从数据分析到机器学习，每个领域都有该领域的大拿为大家解惑答疑，小伙伴们可以加群进行交流。感谢**千锋教育Python教学部**对本群的支持和赞助。
+
+![](./res/python_100_days_qq_group2.png)
+
 =======
 ## Python - 100Day: From Novice to Master
 
@@ -600,4 +607,3 @@ Simply put, Python is an elegant, explicit and simiple programming language.
 
 
 > 致谢：感谢的我的同事古晔、张旭、肖世荣、王海飞、荣佳伟、路丰坤等在技术上给予的指导和帮助。
->>>>>>> 0f5addc4d0807109f4daadfae1b672fd6e1a5eba
