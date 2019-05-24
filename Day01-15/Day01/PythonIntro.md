@@ -55,6 +55,7 @@ Also, it is recommended to install all optional features.
 #### Linux
 
 <!-- Linux环境自带了Python 2.x版本，但是如果要更新到3.x的版本，可以在[Python的官方网站](https://www.python.org)下载Python的源代码并通过源代码构建安装的方式进行安装，具体的步骤如下所示。
+
 安装依赖库（因为没有这些依赖库可能在源代码构件安装时因为缺失底层依赖库而失败）。 -->
 
 Linux has Python 2.x pre-installed. If you want to upgrade, can download the source release from https://www.python.org/downloads/source/. The steps are as follows:
